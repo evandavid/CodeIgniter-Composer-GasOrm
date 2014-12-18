@@ -1,0 +1,7 @@
+{
+    "require": {
+        "rogeriopradoj/codeigniter": "2.2.0",
+        "raveren/kint": "v0.9",
+        "fzaninotto/faker": "*"
+    }
+}
